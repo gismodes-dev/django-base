@@ -1,8 +1,10 @@
 ## Proyecto Base Django
 
-Instalar Virtualenv
+- Instalar Virtualenv:
+`pip install virtualenv`
 
-Crear carpetas: ```virtualenv env
+- Crear carpetas:
+- `virtualenv env`
 
 
 
