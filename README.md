@@ -4,9 +4,10 @@
 `pip install virtualenv`
 
 - Crear carpetas:
-- `virtualenv env`
+`virtualenv env`
 
-
+- Crear carpeta requirements.txt
+`pip freeze > requirements.txt`
 
 Creado por Guillermo Ismodes Bulnes
 
